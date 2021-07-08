@@ -6,7 +6,6 @@ E:\C#\LoggingDemo\WebApiApplication\bin\Debug\netcoreapp3.1\WebApiApplication.ru
 E:\C#\LoggingDemo\WebApiApplication\bin\Debug\netcoreapp3.1\WebApiApplication.runtimeconfig.dev.json
 E:\C#\LoggingDemo\WebApiApplication\bin\Debug\netcoreapp3.1\WebApiApplication.dll
 E:\C#\LoggingDemo\WebApiApplication\bin\Debug\netcoreapp3.1\WebApiApplication.pdb
-E:\C#\LoggingDemo\WebApiApplication\obj\Debug\netcoreapp3.1\WebApiApplication.csproj.AssemblyReference.cache
 E:\C#\LoggingDemo\WebApiApplication\obj\Debug\netcoreapp3.1\WebApiApplication.AssemblyInfoInputs.cache
 E:\C#\LoggingDemo\WebApiApplication\obj\Debug\netcoreapp3.1\WebApiApplication.AssemblyInfo.cs
 E:\C#\LoggingDemo\WebApiApplication\obj\Debug\netcoreapp3.1\WebApiApplication.csproj.CoreCompileInputs.cache

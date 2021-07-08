@@ -6,18 +6,43 @@ namespace ConsoleApp
 {
     class Program
     {
-        //private static readonly log4net.ILog log = log4net.LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
-        private static readonly log4net.ILog log = LogHelper.GetLogger();
+        private static readonly log4net.ILog log = log4net.LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
+        //private static readonly log4net.ILog log = LogHelper.GetLogger();
         static void Main(string[] args)
         {
-            log.Info("this is info message");
-            log.Debug("this is debug message ");
-            log.Error("this is error message");
-            //new Person("csccspeter", "fcwefbak", 6464, log).ToString();
-            //new Person("peter", "bak", 40, log).ToString();
-            //new Person("eli", "cohem", 200, log).ToString();
-            //new Person("pecscter", "bcsscak", 65440, log).ToString();
-            //new Person("csccspeter", "fcwefbak", 6464, log).ToString();
+            log.Info("this is Info message");
+            log.Debug("this is Debug message ");
+            log.Warn("this is Error message");
+
+            var n = 0;
+            try
+            {
+                var x = 10 / n;
+            }
+            catch(DivideByZeroException ex)
+            {
+                log.Error("divided bt 0", ex);
+            }
+
+            for (int i = 0; i < 5; i++)
+            {
+                log4net.GlobalContext.Properties["Counter"] = i;
+                log.Fatal($"#i = {i} this is Fatal messages");
+            }
+
+            Counter j = new Counter();
+            log4net.GlobalContext.Properties["Counter"] = j;
+            for (j.LoopCounter = 0;  j.LoopCounter  < 5; j.LoopCounter++)
+            {
+                log.Fatal("this is Fatal messages, j type");
+            }
+
+
+            new Person("ththdgrg", "htth", 6464).ToString();
+            new Person("fegfe", "efef", 40).ToString();
+            new Person("eli", "cohem", 200).ToString();
+            new Person("mkumu", "mmumu", 65440).ToString();
+            new Person("hrthtrh", "fcwergrghfbak", 6464).ToString();
 
             Console.WriteLine("Hello World!");
             Console.ReadLine();
@@ -34,33 +59,4 @@ namespace ConsoleApp
         //    return retVal;
         //}
     }
-    //class Person
-    //{
-    //    private static int s_counter = 0;
-    //    private ILog Logger { get; set; }
-    //    public string LastName { get; set; }
-    //    public string FirstName { get; set; }
-    //    public int Age { get; set; }
-    //    public int Id { set; get; }
-
-    //    public Person(string lastName, string firstName, int age, ILog logger)
-    //    {
-    //        LastName = lastName;
-    //        FirstName = firstName;
-    //        Age = age;
-    //        Logger = logger;
-    //        Id = ++s_counter;
-    //        //_looger = LogManager.GetLogger(System.Reflection.MethodBase.GetCurrentMethod().DeclaringType);
-
-    //    }
-
-    //    public override string ToString()
-    //    {
-    //        //return this.GetPropertiesAsText().ToString();
-    //        var retVal = Newtonsoft.Json.JsonConvert.SerializeObject(this);
-    //        Logger.Info(retVal);
-
-    //        return retVal;
-    //    }
-    //}
 }

@@ -1,21 +1,63 @@
-17:05:41,289 [E:\C#\LoggingDemo\ConsoleApp\Program.cs] [1] INFO - this is info message
-17:05:41,410 [E:\C#\LoggingDemo\ConsoleApp\Program.cs] [1] DEBUG - this is debug message 
-17:05:41,411 [E:\C#\LoggingDemo\ConsoleApp\Program.cs] [1] ERROR - this is error message
-17:06:30,260 [E:\C#\LoggingDemo\ConsoleApp\Program.cs] [1] INFO - this is info message
-17:06:30,386 [E:\C#\LoggingDemo\ConsoleApp\Program.cs] [1] DEBUG - this is debug message 
-17:06:30,388 [E:\C#\LoggingDemo\ConsoleApp\Program.cs] [1] ERROR - this is error message
-17:09:12,942 [E:\C#\LoggingDemo\ConsoleApp\Program.cs] [1] INFO - this is info message
-17:09:13,058 [E:\C#\LoggingDemo\ConsoleApp\Program.cs] [1] DEBUG - this is debug message 
-17:09:13,059 [E:\C#\LoggingDemo\ConsoleApp\Program.cs] [1] ERROR - this is error message
-17:11:00,195 [E:\C#\LoggingDemo\ConsoleApp\Program.cs] [1] INFO - this is info message
-17:11:00,315 [E:\C#\LoggingDemo\ConsoleApp\Program.cs] [1] DEBUG - this is debug message 
-17:11:00,317 [E:\C#\LoggingDemo\ConsoleApp\Program.cs] [1] ERROR - this is error message
-17:12:03,472 [E:\C#\LoggingDemo\ConsoleApp\Program.cs] [1] INFO - this is info message
-17:12:03,605 [E:\C#\LoggingDemo\ConsoleApp\Program.cs] [1] DEBUG - this is debug message 
-17:12:03,607 [E:\C#\LoggingDemo\ConsoleApp\Program.cs] [1] ERROR - this is error message
-17:15:04,051 [E:\C#\LoggingDemo\ConsoleApp\Program.cs] [1] INFO - this is info message
-17:15:04,190 [E:\C#\LoggingDemo\ConsoleApp\Program.cs] [1] DEBUG - this is debug message 
-17:15:04,191 [E:\C#\LoggingDemo\ConsoleApp\Program.cs] [1] ERROR - this is error message
-17:20:43,141 [E:\C#\LoggingDemo\ConsoleApp\Program.cs] [1] INFO - this is info message
-17:20:43,149 [E:\C#\LoggingDemo\ConsoleApp\Program.cs] [1] DEBUG - this is debug message 
-17:20:43,150 [E:\C#\LoggingDemo\ConsoleApp\Program.cs] [1] ERROR - this is error message
+19:41:17,320 [ConsoleApp.Program] [1] INFO (null) - this is Info message
+19:41:17,394 [ConsoleApp.Program] [1] DEBUG (null) - this is Debug message 
+19:41:17,394 [ConsoleApp.Program] [1] WARN (null) - this is Error message
+19:41:17,415 [ConsoleApp.Program] [1] ERROR (null) - divided bt 0
+System.DivideByZeroException: Attempted to divide by zero.
+   at ConsoleApp.Program.Main(String[] args) in E:\C#\LoggingDemo\ConsoleApp\Program.cs:line 20
+19:41:17,470 [ConsoleApp.Program] [1] FATAL 0 - #i = 0 this is Fatal messages
+19:41:17,470 [ConsoleApp.Program] [1] FATAL 1 - #i = 1 this is Fatal messages
+19:41:17,471 [ConsoleApp.Program] [1] FATAL 2 - #i = 2 this is Fatal messages
+19:41:17,471 [ConsoleApp.Program] [1] FATAL 3 - #i = 3 this is Fatal messages
+19:41:17,472 [ConsoleApp.Program] [1] FATAL 4 - #i = 4 this is Fatal messages
+19:41:17,472 [ConsoleApp.Program] [1] FATAL 0 - this is Fatal messages, j type
+19:41:17,473 [ConsoleApp.Program] [1] FATAL 1 - this is Fatal messages, j type
+19:41:17,473 [ConsoleApp.Program] [1] FATAL 2 - this is Fatal messages, j type
+19:41:17,474 [ConsoleApp.Program] [1] FATAL 3 - this is Fatal messages, j type
+19:41:17,474 [ConsoleApp.Program] [1] FATAL 4 - this is Fatal messages, j type
+19:41:17,760 [ConsoleApp.Person] [1] INFO 5 - {"LastName":"ththdgrg","FirstName":"htth","Age":6464,"Id":1}
+19:41:17,761 [ConsoleApp.Person] [1] INFO 5 - {"LastName":"fegfe","FirstName":"efef","Age":40,"Id":2}
+19:41:17,761 [ConsoleApp.Person] [1] INFO 5 - {"LastName":"eli","FirstName":"cohem","Age":200,"Id":3}
+19:41:17,762 [ConsoleApp.Person] [1] INFO 5 - {"LastName":"mkumu","FirstName":"mmumu","Age":65440,"Id":4}
+19:41:17,762 [ConsoleApp.Person] [1] INFO 5 - {"LastName":"hrthtrh","FirstName":"fcwergrghfbak","Age":6464,"Id":5}
+22:53:49,916 [ConsoleApp.Program] [1] INFO (null) - this is Info message
+22:53:50,005 [ConsoleApp.Program] [1] DEBUG (null) - this is Debug message 
+22:53:50,006 [ConsoleApp.Program] [1] WARN (null) - this is Error message
+22:53:50,029 [ConsoleApp.Program] [1] ERROR (null) - divided bt 0
+System.DivideByZeroException: Attempted to divide by zero.
+   at ConsoleApp.Program.Main(String[] args) in E:\C#\LoggingDemo\ConsoleApp\Program.cs:line 20
+22:53:50,093 [ConsoleApp.Program] [1] FATAL 0 - #i = 0 this is Fatal messages
+22:53:50,094 [ConsoleApp.Program] [1] FATAL 1 - #i = 1 this is Fatal messages
+22:53:50,095 [ConsoleApp.Program] [1] FATAL 2 - #i = 2 this is Fatal messages
+22:53:50,095 [ConsoleApp.Program] [1] FATAL 3 - #i = 3 this is Fatal messages
+22:53:50,096 [ConsoleApp.Program] [1] FATAL 4 - #i = 4 this is Fatal messages
+22:53:50,096 [ConsoleApp.Program] [1] FATAL 0 - this is Fatal messages, j type
+22:53:50,097 [ConsoleApp.Program] [1] FATAL 1 - this is Fatal messages, j type
+22:53:50,097 [ConsoleApp.Program] [1] FATAL 2 - this is Fatal messages, j type
+22:53:50,099 [ConsoleApp.Program] [1] FATAL 3 - this is Fatal messages, j type
+22:53:50,102 [ConsoleApp.Program] [1] FATAL 4 - this is Fatal messages, j type
+22:53:50,440 [ConsoleApp.Person] [1] INFO 5 - {"LastName":"ththdgrg","FirstName":"htth","Age":6464,"Id":1}
+22:53:50,440 [ConsoleApp.Person] [1] INFO 5 - {"LastName":"fegfe","FirstName":"efef","Age":40,"Id":2}
+22:53:50,441 [ConsoleApp.Person] [1] INFO 5 - {"LastName":"eli","FirstName":"cohem","Age":200,"Id":3}
+22:53:50,441 [ConsoleApp.Person] [1] INFO 5 - {"LastName":"mkumu","FirstName":"mmumu","Age":65440,"Id":4}
+22:53:50,441 [ConsoleApp.Person] [1] INFO 5 - {"LastName":"hrthtrh","FirstName":"fcwergrghfbak","Age":6464,"Id":5}
+22:54:53,597 [ConsoleApp.Program] [1] INFO (null) - this is Info message
+22:54:53,673 [ConsoleApp.Program] [1] DEBUG (null) - this is Debug message 
+22:54:53,674 [ConsoleApp.Program] [1] WARN (null) - this is Error message
+22:54:53,694 [ConsoleApp.Program] [1] ERROR (null) - divided bt 0
+System.DivideByZeroException: Attempted to divide by zero.
+   at ConsoleApp.Program.Main(String[] args) in E:\C#\LoggingDemo\ConsoleApp\Program.cs:line 20
+22:54:53,742 [ConsoleApp.Program] [1] FATAL 0 - #i = 0 this is Fatal messages
+22:54:53,742 [ConsoleApp.Program] [1] FATAL 1 - #i = 1 this is Fatal messages
+22:54:53,743 [ConsoleApp.Program] [1] FATAL 2 - #i = 2 this is Fatal messages
+22:54:53,743 [ConsoleApp.Program] [1] FATAL 3 - #i = 3 this is Fatal messages
+22:54:53,744 [ConsoleApp.Program] [1] FATAL 4 - #i = 4 this is Fatal messages
+22:54:53,744 [ConsoleApp.Program] [1] FATAL 0 - this is Fatal messages, j type
+22:54:53,745 [ConsoleApp.Program] [1] FATAL 1 - this is Fatal messages, j type
+22:54:53,745 [ConsoleApp.Program] [1] FATAL 2 - this is Fatal messages, j type
+22:54:53,746 [ConsoleApp.Program] [1] FATAL 3 - this is Fatal messages, j type
+22:54:53,746 [ConsoleApp.Program] [1] FATAL 4 - this is Fatal messages, j type
+22:54:54,045 [ConsoleApp.Person] [1] INFO 5 - {"LastName":"ththdgrg","FirstName":"htth","Age":6464,"Id":1}
+22:54:54,046 [ConsoleApp.Person] [1] INFO 5 - {"LastName":"fegfe","FirstName":"efef","Age":40,"Id":2}
+22:54:54,046 [ConsoleApp.Person] [1] INFO 5 - {"LastName":"eli","FirstName":"cohem","Age":200,"Id":3}
+22:54:54,047 [ConsoleApp.Person] [1] INFO 5 - {"LastName":"mkumu","FirstName":"mmumu","Age":65440,"Id":4}
+22:54:54,047 [ConsoleApp.Person] [1] INFO 5 - {"LastName":"hrthtrh","FirstName":"fcwergrghfbak","Age":6464,"Id":5}

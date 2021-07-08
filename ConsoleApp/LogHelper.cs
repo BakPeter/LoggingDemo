@@ -9,6 +9,7 @@ namespace ConsoleApp
     {
         public static log4net.ILog GetLogger([CallerFilePath] string fileName = "")
         {
+            log4net.Config.XmlConfigurator.Configure();
             return log4net.LogManager.GetLogger(fileName);
         }
     }
