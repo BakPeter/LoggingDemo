@@ -1,0 +1,8 @@
+E:\C#\LoggingDemo\CalculatorService\bin\Debug\netcoreapp3.1\CalculatorService.deps.json
+E:\C#\LoggingDemo\CalculatorService\bin\Debug\netcoreapp3.1\CalculatorService.dll
+E:\C#\LoggingDemo\CalculatorService\bin\Debug\netcoreapp3.1\CalculatorService.pdb
+E:\C#\LoggingDemo\CalculatorService\obj\Debug\netcoreapp3.1\CalculatorService.AssemblyInfoInputs.cache
+E:\C#\LoggingDemo\CalculatorService\obj\Debug\netcoreapp3.1\CalculatorService.AssemblyInfo.cs
+E:\C#\LoggingDemo\CalculatorService\obj\Debug\netcoreapp3.1\CalculatorService.csproj.CoreCompileInputs.cache
+E:\C#\LoggingDemo\CalculatorService\obj\Debug\netcoreapp3.1\CalculatorService.dll
+E:\C#\LoggingDemo\CalculatorService\obj\Debug\netcoreapp3.1\CalculatorService.pdb

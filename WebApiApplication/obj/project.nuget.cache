@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "iK3iMok9BI3cjTi3rgZmgMt8B+pu/9yDez0jGa+fe1/+dhlkvHK06C2qYpnCkluz+nsFMO8n769NeLHOfEmZCA==",
+  "dgSpecHash": "P1Hc6oKPPoZJLVjqbdIUDfSMBv2qXJeC181k+wqMKLQFIekoQezdnkf/ODx8FWl8dMTa7yxyNui1CWObgnz1mQ==",
   "success": true,
   "projectFilePath": "E:\\C#\\LoggingDemo\\WebApiApplication\\WebApiApplication.csproj",
   "expectedPackageFiles": [
@@ -11,7 +11,7 @@
     "C:\\Users\\PETER\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.13\\microsoft.extensions.dependencyinjection.3.1.13.nupkg.sha512",
     "C:\\Users\\PETER\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.13\\microsoft.extensions.dependencyinjection.abstractions.3.1.13.nupkg.sha512",
     "C:\\Users\\PETER\\.nuget\\packages\\microsoft.extensions.logging\\3.1.13\\microsoft.extensions.logging.3.1.13.nupkg.sha512",
-    "C:\\Users\\PETER\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.13\\microsoft.extensions.logging.abstractions.3.1.13.nupkg.sha512",
+    "C:\\Users\\PETER\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\PETER\\.nuget\\packages\\microsoft.extensions.logging.log4net.aspnetcore\\5.0.3\\microsoft.extensions.logging.log4net.aspnetcore.5.0.3.nupkg.sha512",
     "C:\\Users\\PETER\\.nuget\\packages\\microsoft.extensions.options\\3.1.13\\microsoft.extensions.options.3.1.13.nupkg.sha512",
     "C:\\Users\\PETER\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.13\\microsoft.extensions.primitives.3.1.13.nupkg.sha512",

@@ -6,10 +6,12 @@ E:\C#\LoggingDemo\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.de
 E:\C#\LoggingDemo\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
 E:\C#\LoggingDemo\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
 E:\C#\LoggingDemo\ConsoleApp\bin\Debug\netcoreapp3.1\log4net.dll
+E:\C#\LoggingDemo\ConsoleApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 E:\C#\LoggingDemo\ConsoleApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
 E:\C#\LoggingDemo\ConsoleApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
 E:\C#\LoggingDemo\ConsoleApp\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
 E:\C#\LoggingDemo\ConsoleApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\C#\LoggingDemo\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.AssemblyReference.cache
 E:\C#\LoggingDemo\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
 E:\C#\LoggingDemo\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
 E:\C#\LoggingDemo\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
@@ -17,5 +19,3 @@ E:\C#\LoggingDemo\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CopyCompl
 E:\C#\LoggingDemo\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
 E:\C#\LoggingDemo\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
 E:\C#\LoggingDemo\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
-E:\C#\LoggingDemo\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.AssemblyReference.cache
-E:\C#\LoggingDemo\ConsoleApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

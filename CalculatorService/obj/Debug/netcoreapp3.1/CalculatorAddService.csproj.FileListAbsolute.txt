@@ -1,0 +1,12 @@
+E:\C#\LoggingDemo\CalculatorService\bin\Debug\netcoreapp3.1\CalculatorAddService.deps.json
+E:\C#\LoggingDemo\CalculatorService\bin\Debug\netcoreapp3.1\CalculatorAddService.dll
+E:\C#\LoggingDemo\CalculatorService\bin\Debug\netcoreapp3.1\CalculatorAddService.pdb
+E:\C#\LoggingDemo\CalculatorService\bin\Debug\netcoreapp3.1\ServiceTemplateMethod.dll
+E:\C#\LoggingDemo\CalculatorService\bin\Debug\netcoreapp3.1\ServiceTemplateMethod.pdb
+E:\C#\LoggingDemo\CalculatorService\obj\Debug\netcoreapp3.1\CalculatorAddService.csproj.AssemblyReference.cache
+E:\C#\LoggingDemo\CalculatorService\obj\Debug\netcoreapp3.1\CalculatorAddService.AssemblyInfoInputs.cache
+E:\C#\LoggingDemo\CalculatorService\obj\Debug\netcoreapp3.1\CalculatorAddService.AssemblyInfo.cs
+E:\C#\LoggingDemo\CalculatorService\obj\Debug\netcoreapp3.1\CalculatorAddService.csproj.CoreCompileInputs.cache
+E:\C#\LoggingDemo\CalculatorService\obj\Debug\netcoreapp3.1\CalculatorAddService.csproj.CopyComplete
+E:\C#\LoggingDemo\CalculatorService\obj\Debug\netcoreapp3.1\CalculatorAddService.dll
+E:\C#\LoggingDemo\CalculatorService\obj\Debug\netcoreapp3.1\CalculatorAddService.pdb

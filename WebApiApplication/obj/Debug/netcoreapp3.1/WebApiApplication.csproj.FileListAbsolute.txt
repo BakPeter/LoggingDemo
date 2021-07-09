@@ -1,3 +1,8 @@
+E:\C#\LoggingDemo\WebApiApplication\obj\Debug\netcoreapp3.1\WebApiApplication.csproj.AssemblyReference.cache
+E:\C#\LoggingDemo\WebApiApplication\obj\Debug\netcoreapp3.1\WebApiApplication.AssemblyInfoInputs.cache
+E:\C#\LoggingDemo\WebApiApplication\obj\Debug\netcoreapp3.1\WebApiApplication.AssemblyInfo.cs
+E:\C#\LoggingDemo\WebApiApplication\obj\Debug\netcoreapp3.1\WebApiApplication.csproj.CoreCompileInputs.cache
+E:\C#\LoggingDemo\WebApiApplication\obj\Debug\netcoreapp3.1\WebApiApplication.MvcApplicationPartsAssemblyInfo.cache
 E:\C#\LoggingDemo\WebApiApplication\bin\Debug\netcoreapp3.1\log4net.config
 E:\C#\LoggingDemo\WebApiApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
 E:\C#\LoggingDemo\WebApiApplication\bin\Debug\netcoreapp3.1\appsettings.json
@@ -22,10 +27,10 @@ E:\C#\LoggingDemo\WebApiApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 E:\C#\LoggingDemo\WebApiApplication\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
 E:\C#\LoggingDemo\WebApiApplication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
 E:\C#\LoggingDemo\WebApiApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-E:\C#\LoggingDemo\WebApiApplication\obj\Debug\netcoreapp3.1\WebApiApplication.AssemblyInfoInputs.cache
-E:\C#\LoggingDemo\WebApiApplication\obj\Debug\netcoreapp3.1\WebApiApplication.AssemblyInfo.cs
-E:\C#\LoggingDemo\WebApiApplication\obj\Debug\netcoreapp3.1\WebApiApplication.csproj.CoreCompileInputs.cache
-E:\C#\LoggingDemo\WebApiApplication\obj\Debug\netcoreapp3.1\WebApiApplication.MvcApplicationPartsAssemblyInfo.cache
+E:\C#\LoggingDemo\WebApiApplication\bin\Debug\netcoreapp3.1\CalculatorAddService.dll
+E:\C#\LoggingDemo\WebApiApplication\bin\Debug\netcoreapp3.1\ServiceTemplateMethod.dll
+E:\C#\LoggingDemo\WebApiApplication\bin\Debug\netcoreapp3.1\CalculatorAddService.pdb
+E:\C#\LoggingDemo\WebApiApplication\bin\Debug\netcoreapp3.1\ServiceTemplateMethod.pdb
 E:\C#\LoggingDemo\WebApiApplication\obj\Debug\netcoreapp3.1\staticwebassets\WebApiApplication.StaticWebAssets.Manifest.cache
 E:\C#\LoggingDemo\WebApiApplication\obj\Debug\netcoreapp3.1\staticwebassets\WebApiApplication.StaticWebAssets.xml
 E:\C#\LoggingDemo\WebApiApplication\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApiApplication.styles.css

@@ -1,15 +1,17 @@
-2021-07-09 09:11:27,612 [Thread:Microsoft.Hosting.Lifetime] [1] INFO - Application started. Press Ctrl+C to shut down.
-2021-07-09 09:11:27,622 [Thread:Microsoft.Hosting.Lifetime] [1] INFO - Hosting environment: Development
-2021-07-09 09:11:27,624 [Thread:Microsoft.Hosting.Lifetime] [1] INFO - Content root path: E:\C#\LoggingDemo\WebApiApplication
-2021-07-09 09:11:27,704 [Thread:WebApiApplication.Controllers.WeatherForecastController] [10] INFO - Get
-2021-07-09 09:11:27,841 [Thread:WebApiApplication.Controllers.WeatherForecastController] [10] INFO - {"Date":"2021-07-10T09:11:27.7064742+03:00","TemperatureC":35,"TemperatureF":94,"Summary":"Hot"}
-2021-07-09 09:11:27,843 [Thread:WebApiApplication.Controllers.WeatherForecastController] [10] INFO - {"Date":"2021-07-11T09:11:27.7066937+03:00","TemperatureC":45,"TemperatureF":112,"Summary":"Chilly"}
-2021-07-09 09:11:27,846 [Thread:WebApiApplication.Controllers.WeatherForecastController] [10] INFO - {"Date":"2021-07-12T09:11:27.7066956+03:00","TemperatureC":25,"TemperatureF":76,"Summary":"Hot"}
-2021-07-09 09:11:27,848 [Thread:WebApiApplication.Controllers.WeatherForecastController] [10] INFO - {"Date":"2021-07-13T09:11:27.7066962+03:00","TemperatureC":22,"TemperatureF":71,"Summary":"Bracing"}
-2021-07-09 09:11:27,850 [Thread:WebApiApplication.Controllers.WeatherForecastController] [10] INFO - {"Date":"2021-07-14T09:11:27.7066965+03:00","TemperatureC":23,"TemperatureF":73,"Summary":"Warm"}
-2021-07-09 09:12:00,122 [Thread:WebApiApplication.Controllers.WeatherForecastController] [8] INFO - Get
-2021-07-09 09:12:00,125 [Thread:WebApiApplication.Controllers.WeatherForecastController] [8] INFO - {"Date":"2021-07-10T09:12:00.1232733+03:00","TemperatureC":2,"TemperatureF":35,"Summary":"Bracing"}
-2021-07-09 09:12:00,135 [Thread:WebApiApplication.Controllers.WeatherForecastController] [8] INFO - {"Date":"2021-07-11T09:12:00.123283+03:00","TemperatureC":36,"TemperatureF":96,"Summary":"Sweltering"}
-2021-07-09 09:12:00,137 [Thread:WebApiApplication.Controllers.WeatherForecastController] [8] INFO - {"Date":"2021-07-12T09:12:00.1232841+03:00","TemperatureC":0,"TemperatureF":32,"Summary":"Warm"}
-2021-07-09 09:12:00,139 [Thread:WebApiApplication.Controllers.WeatherForecastController] [8] INFO - {"Date":"2021-07-13T09:12:00.1232848+03:00","TemperatureC":16,"TemperatureF":60,"Summary":"Cool"}
-2021-07-09 09:12:00,141 [Thread:WebApiApplication.Controllers.WeatherForecastController] [8] INFO - {"Date":"2021-07-14T09:12:00.1232854+03:00","TemperatureC":13,"TemperatureF":55,"Summary":"Hot"}
+2021-07-09 11:46:37,334 [Thread:object] [4] INFO - Begin Method:CalculatorAddService.CalcAddResponse Add(CalculatorAddService.CalcAddDTO)=>TResponse TemplateMethod[TResponse,TDTO](TDTO, System.Reflection.MethodBase)
+2021-07-09 11:46:37,471 [Thread:object] [4] INFO - Paramter:{"N1":2,"N2":5}
+2021-07-09 11:46:37,475 [Thread:object] [4] INFO - RetVal:{"RequestSuccess":true,"Result":7}
+2021-07-09 11:48:34,778 [Thread:Microsoft.Hosting.Lifetime] [1] INFO - Application started. Press Ctrl+C to shut down.
+2021-07-09 11:48:34,788 [Thread:Microsoft.Hosting.Lifetime] [1] INFO - Hosting environment: Development
+2021-07-09 11:48:34,790 [Thread:Microsoft.Hosting.Lifetime] [1] INFO - Content root path: E:\C#\LoggingDemo\WebApiApplication
+2021-07-09 11:48:34,936 [Thread:WebApiApplication.Controllers.WeatherForecastController] [7] INFO - Get
+2021-07-09 11:48:37,101 [Thread:object] [7] INFO - Begin Method:Add=>TResponse TemplateMethod[TResponse,TDTO](TDTO, System.Reflection.MethodBase)
+2021-07-09 11:48:37,241 [Thread:object] [7] INFO - Paramter:{"N1":2,"N2":5}
+2021-07-09 11:48:37,245 [Thread:object] [7] INFO - RetVal:{"RequestSuccess":true,"Result":7}
+2021-07-09 11:49:44,193 [Thread:Microsoft.Hosting.Lifetime] [1] INFO - Application started. Press Ctrl+C to shut down.
+2021-07-09 11:49:44,205 [Thread:Microsoft.Hosting.Lifetime] [1] INFO - Hosting environment: Development
+2021-07-09 11:49:44,207 [Thread:Microsoft.Hosting.Lifetime] [1] INFO - Content root path: E:\C#\LoggingDemo\WebApiApplication
+2021-07-09 11:49:44,280 [Thread:WebApiApplication.Controllers.WeatherForecastController] [10] INFO - Get
+2021-07-09 11:49:46,872 [Thread:object] [10] INFO - Begin Method:Add => TemplateMethod
+2021-07-09 11:49:47,008 [Thread:object] [10] INFO - Paramter:{"N1":2,"N2":5}
+2021-07-09 11:49:47,012 [Thread:object] [10] INFO - RetVal:{"RequestSuccess":true,"Result":7}
