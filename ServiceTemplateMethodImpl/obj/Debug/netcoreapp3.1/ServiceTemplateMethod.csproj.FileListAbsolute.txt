@@ -1,0 +1,8 @@
+E:\C#\LoggingDemo\ServiceTemplateMethodImpl\bin\Debug\netcoreapp3.1\ServiceTemplateMethod.deps.json
+E:\C#\LoggingDemo\ServiceTemplateMethodImpl\bin\Debug\netcoreapp3.1\ServiceTemplateMethod.dll
+E:\C#\LoggingDemo\ServiceTemplateMethodImpl\bin\Debug\netcoreapp3.1\ServiceTemplateMethod.pdb
+E:\C#\LoggingDemo\ServiceTemplateMethodImpl\obj\Debug\netcoreapp3.1\ServiceTemplateMethod.AssemblyInfoInputs.cache
+E:\C#\LoggingDemo\ServiceTemplateMethodImpl\obj\Debug\netcoreapp3.1\ServiceTemplateMethod.AssemblyInfo.cs
+E:\C#\LoggingDemo\ServiceTemplateMethodImpl\obj\Debug\netcoreapp3.1\ServiceTemplateMethod.csproj.CoreCompileInputs.cache
+E:\C#\LoggingDemo\ServiceTemplateMethodImpl\obj\Debug\netcoreapp3.1\ServiceTemplateMethod.dll
+E:\C#\LoggingDemo\ServiceTemplateMethodImpl\obj\Debug\netcoreapp3.1\ServiceTemplateMethod.pdb

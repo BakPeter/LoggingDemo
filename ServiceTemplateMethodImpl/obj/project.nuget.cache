@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FfHe3x0P4mJ+g1Fwo3IUPLRwGfeLic2dOzAVxvErEoXUKuvM2Xrpp+9KpRHmvFeZ6r39rUBzs/Ab+1iSPX2Mhw==",
+  "success": true,
+  "projectFilePath": "E:\\C#\\LoggingDemo\\ServiceTemplateMethodImpl\\ServiceTemplateMethod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PETER\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
